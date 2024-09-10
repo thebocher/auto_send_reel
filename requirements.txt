@@ -1,0 +1,10 @@
+certifi==2024.8.30
+charset-normalizer==3.3.2
+idna==3.8
+pyaes==1.6.1
+pyasn1==0.5.1
+python-dotenv==0.21.1
+requests==2.31.0
+rsa==4.9
+Telethon==1.36.0
+urllib3==2.0.7
