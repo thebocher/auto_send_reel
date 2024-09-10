@@ -21,7 +21,7 @@ api_hash = os.environ['API_HASH']
 
 client = TelegramClient('name', api_id, api_hash)
 
-owner = int(os.environ['OWNER_ID'])
+owner = int(os.environ['OWNER'])
 
 allowed_senders = [owner]
 
